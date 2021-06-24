@@ -140,6 +140,7 @@ const citiesAtoJ = (arr) => {
   return arr.filter(element => regex.test(element));
 };
 
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 7 - Stretch Goal
 
